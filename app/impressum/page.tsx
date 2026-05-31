@@ -30,7 +30,7 @@ export default function Impressum() {
           <p>
             René Lamberti<br />
             {/* BITTE ERSETZEN: */}
-            Contessaweg 28a 1<br />
+            Contessaweg 28a<br />
             14089 Berlin<br />
             Deutschland
           </p>
@@ -58,8 +58,8 @@ export default function Impressum() {
           <p>
             René Lamberti<br />
             {/* BITTE ERSETZEN: */}
-            Musterstraße 1<br />
-            10115 Berlin
+            Contessaweg 28a<br />
+            14089 Berlin
           </p>
         </section>
 
