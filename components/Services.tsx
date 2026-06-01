@@ -27,9 +27,9 @@ const services = [
 
 export default function Services() {
   return (
-    <section id="services" className="py-24 lg:py-32 px-6 lg:px-12 max-w-7xl mx-auto">
+    <section id="services" className="py-20 lg:py-28 px-6 lg:px-12 max-w-7xl mx-auto">
       {/* Section label */}
-      <p className="text-xs tracking-widest uppercase text-stone-400 mb-16">
+      <p className="text-xs tracking-widest uppercase text-stone-400 mb-12">
         Services
       </p>
 

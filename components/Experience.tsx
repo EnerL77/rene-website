@@ -15,11 +15,11 @@ const brands = [
 
 export default function Experience() {
   return (
-    <section className="py-24 lg:py-32 px-6 lg:px-12 max-w-7xl mx-auto">
+    <section className="py-20 lg:py-28 px-6 lg:px-12 max-w-7xl mx-auto">
       <p className="text-xs tracking-widest uppercase text-stone-400 mb-6">
         Experience
       </p>
-      <h2 className="text-2xl sm:text-3xl font-light text-stone-950 tracking-tight mb-16 max-w-xl">
+      <h2 className="text-2xl sm:text-3xl font-light text-stone-950 tracking-tight mb-12 max-w-xl">
         Across brands, agencies and digital products.
       </h2>
 

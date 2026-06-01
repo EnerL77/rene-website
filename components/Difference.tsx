@@ -1,6 +1,6 @@
 export default function Difference() {
   return (
-    <section className="py-24 lg:py-32 px-6 lg:px-12 bg-stone-950">
+    <section className="py-20 lg:py-28 px-6 lg:px-12 bg-stone-950">
       <div className="max-w-7xl mx-auto">
         <div className="max-w-4xl">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-light text-white leading-[1.2] tracking-tight mb-10">

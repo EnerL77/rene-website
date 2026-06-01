@@ -21,14 +21,14 @@ const steps = [
 
 export default function Approach() {
   return (
-    <section id="approach" className="py-24 lg:py-32 px-6 lg:px-12 max-w-7xl mx-auto">
+    <section id="approach" className="py-20 lg:py-28 px-6 lg:px-12 max-w-7xl mx-auto">
       <p className="text-xs tracking-widest uppercase text-stone-400 mb-6">
         Approach
       </p>
       <h2 className="text-2xl sm:text-3xl font-light text-stone-950 tracking-tight mb-4 max-w-xl">
         Less process. More progress.
       </h2>
-      <p className="text-sm text-stone-500 mb-16 max-w-lg leading-relaxed">
+      <p className="text-sm text-stone-500 mb-12 max-w-lg leading-relaxed">
         Useful when the brief is unclear, the idea is missing, the team is
         stuck, or the work needs to become sharper fast.
       </p>

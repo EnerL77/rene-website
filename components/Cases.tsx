@@ -28,7 +28,7 @@ const cases = [
 export default function Cases() {
   return (
     <section id="work">
-      <div className="px-6 lg:px-12 max-w-7xl mx-auto py-24 lg:py-32">
+      <div className="px-6 lg:px-12 max-w-7xl mx-auto pt-20 lg:pt-28 pb-12 lg:pb-16">
         <p className="text-xs tracking-widest uppercase text-stone-400 mb-6">
           Selected Work
         </p>
